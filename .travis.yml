@@ -1,2 +1,2 @@
 script:
-  - exit 1
+  - bash test_hello.sh
